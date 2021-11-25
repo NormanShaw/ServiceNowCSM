@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="x_729409_csm_service_type" table="incident" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>x_729409_csm_service_type</element>
+            <name>incident</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-25 06:26:16</sys_created_on>
+            <sys_id>3099be55078001105cb7f8ed7c1ed0f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_729409_csm_service_type</sys_name>
+            <sys_package display_value="Customer Service Hub" source="x_729409_csm">ef125295070001105cb7f8ed7c1ed0bc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Customer Service Hub">ef125295070001105cb7f8ed7c1ed0bc</sys_scope>
+            <sys_update_name>sys_choice_incident_x_729409_csm_service_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-25 06:26:16</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_729409_csm_service_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hardware</label>
+            <language>en</language>
+            <name>incident</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-25 06:30:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8d9a3695078001105cb7f8ed7c1ed04a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-25 06:30:46</sys_updated_on>
+            <value>hw</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_729409_csm_service_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Iaas</label>
+            <language>en</language>
+            <name>incident</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-25 06:31:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e39af695078001105cb7f8ed7c1ed02a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-25 06:31:01</sys_updated_on>
+            <value>ia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_729409_csm_service_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SoftWare</label>
+            <language>en</language>
+            <name>incident</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-25 06:26:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7e797695078001105cb7f8ed7c1ed047</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-25 06:26:16</sys_updated_on>
+            <value>sw</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_729409_csm_service_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TrueScale</label>
+            <language>en</language>
+            <name>incident</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-25 06:31:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e4bab295078001105cb7f8ed7c1ed019</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-25 06:31:18</sys_updated_on>
+            <value>ts</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Infomation" section_id="34a8c39107c001105cb7f8ed7c1ed08e" sys_domain="global" table="incident" version="3" view="ess">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_729409_csm_service_type</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-25 07:32:06</sys_created_on>
+            <sys_id>c5a8c39107c001105cb7f8ed7c1ed0d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Infomation" display_value="Infomation" name="incident" sys_domain="global" view="fc507340c923101091f9f06464832735">34a8c39107c001105cb7f8ed7c1ed08e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-25 07:32:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_service</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-25 07:32:06</sys_created_on>
+            <sys_id>cda8c39107c001105cb7f8ed7c1ed0d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Infomation" display_value="Infomation" name="incident" sys_domain="global" view="fc507340c923101091f9f06464832735">34a8c39107c001105cb7f8ed7c1ed08e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-25 07:32:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>severity</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-25 07:32:06</sys_created_on>
+            <sys_id>41a8c39107c001105cb7f8ed7c1ed0da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Infomation" display_value="Infomation" name="incident" sys_domain="global" view="fc507340c923101091f9f06464832735">34a8c39107c001105cb7f8ed7c1ed08e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-25 07:32:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-25 07:32:06</sys_created_on>
+            <sys_id>c1a8c39107c001105cb7f8ed7c1ed0da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Infomation" display_value="Infomation" name="incident" sys_domain="global" view="fc507340c923101091f9f06464832735">34a8c39107c001105cb7f8ed7c1ed08e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-25 07:32:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-25 07:32:06</sys_created_on>
+            <sys_id>45a8c39107c001105cb7f8ed7c1ed0da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Infomation" display_value="Infomation" name="incident" sys_domain="global" view="fc507340c923101091f9f06464832735">34a8c39107c001105cb7f8ed7c1ed08e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-25 07:32:06</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-25 07:32:06</sys_created_on>
+            <sys_id>c5a8c39107c001105cb7f8ed7c1ed0da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Infomation" display_value="Infomation" name="incident" sys_domain="global" view="fc507340c923101091f9f06464832735">34a8c39107c001105cb7f8ed7c1ed08e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-25 07:32:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>problem_id</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-25 07:32:06</sys_created_on>
+            <sys_id>49a8c39107c001105cb7f8ed7c1ed0da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Infomation" display_value="Infomation" name="incident" sys_domain="global" view="fc507340c923101091f9f06464832735">34a8c39107c001105cb7f8ed7c1ed08e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-25 07:32:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sla_due</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-25 07:32:06</sys_created_on>
+            <sys_id>c9a8c39107c001105cb7f8ed7c1ed0da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Infomation" display_value="Infomation" name="incident" sys_domain="global" view="fc507340c923101091f9f06464832735">34a8c39107c001105cb7f8ed7c1ed08e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-25 07:32:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Infomation</caption>
+            <header>false</header>
+            <name>incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-25 07:32:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>34a8c39107c001105cb7f8ed7c1ed08e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>incident</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Customer Service Hub" source="x_729409_csm">ef125295070001105cb7f8ed7c1ed0bc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Customer Service Hub">ef125295070001105cb7f8ed7c1ed0bc</sys_scope>
+            <sys_update_name>sys_ui_section_34a8c39107c001105cb7f8ed7c1ed08e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-25 07:32:05</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Self Service" name="ess">fc507340c923101091f9f06464832735</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
